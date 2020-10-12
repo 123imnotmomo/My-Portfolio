@@ -1,2 +1,3 @@
 # My-Portfolio
-# Things that I have created: 
+# This repository contains the following things: 
+- Nothing 
